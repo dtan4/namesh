@@ -4,7 +4,7 @@
   "description": "Node.js Client for Tokyo-Amesh",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --require espower-coffee/guess test/**/test.coffee"
   },
   "repository": {
     "type": "git",
