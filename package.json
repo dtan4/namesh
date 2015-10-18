@@ -4,7 +4,7 @@
   "description": "Node.js Client for Tokyo-Amesh",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --require espower-coffee/guess test/**/test.coffee"
+    "test": "mocha --require espower-coffee/guess test/**/*.coffee"
   },
   "repository": {
     "type": "git",
