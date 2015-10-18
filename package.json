@@ -11,7 +11,7 @@
     "url": "git+https://github.com/dtan4/namesh.git"
   },
   "author": "Daisuke Fujita <dtanshi45@gmail.com> (https://github.com/dtan4)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dtan4/namesh/issues"
   },
